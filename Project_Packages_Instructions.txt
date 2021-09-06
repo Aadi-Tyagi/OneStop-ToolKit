@@ -6,7 +6,7 @@ Open Command Prompt with admin privileges and copy the following commands one by
 4.pip install pefile
 5.pip install pyinstaller (Ignore the warning if any while executing this command specifically).
 6.pip install auto-py-to-exe 
-7.pip install googletrans
+7.pip install google_trans_new
 8.pip install pytube3
 9.pip install gTTs
 10.pip install speechrecognition
