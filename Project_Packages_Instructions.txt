@@ -7,6 +7,7 @@ Open Command Prompt with admin privileges and copy the following commands one by
 5.pip install pyinstaller (Ignore the warning if any while executing this command specifically).
 6.pip install auto-py-to-exe 
 7.pip install googletrans
+8.pip install pytube3
 
 Note 1: If anyone is facing any errors while following the above command list then consider upgrading your pip by using 
 the below mentioned commands:
