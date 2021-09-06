@@ -1,4 +1,4 @@
-Open Command Prompt with admin privileges and copy the following commands one by one.
+Open Command Prompt with admin privileges and copy the following commands one by one and press enter after each command.
 
 1.pip -V 
 2.pip install tk
