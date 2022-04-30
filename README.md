@@ -1,9 +1,10 @@
+
 # OneStop ToolKit #
 
-## About Project
+## About Project 💻 ##
 One Stop Tool kit is a single application consisting of multiple functionalities that are calculator, unit convertor, language translator, Text to speech convertor and video downloader. The convertor has five conversion functionalities i.e. temperature conversion, length conversion, weight conversion, currency rate conversion and area conversion. Further the application has language translator and video downloader. The language translator works on google trans API. The video downloader is built using python inbuild libraries mainly Pytube. 
 
-## Libraries Used: ##
+## Libraries Used 📚📚📚 ##
   1. Tkinter 
   2. Pyttsx3
   3. Pillow
@@ -13,7 +14,7 @@ One Stop Tool kit is a single application consisting of multiple functionalities
   7. Requests
 
 
-### Setting up the project environment ###
+### Setting up the project environment ⚙⚙⚙  ###
 
 Open Command Prompt with admin privileges and copy the following commands one by one and press enter after each command.
 
@@ -30,16 +31,17 @@ Open Command Prompt with admin privileges and copy the following commands one by
 11. pip install pyttsx3
 12. pip install requests
 
-### What problems may occur ###
+### What problems may occur 😔🤔 ###
 Problem 1: If anyone is facing any errors while following the above command list then consider upgrading your pip by using 
 the below mentioned commands
-<br />python -m pip install -upgrade pip
+<br />Solution😄: ***python -m pip install -upgrade pip***
 
 Problem 2: If anyone is facing the error "No module found named pip" then run the following command
-<br />Solution: ***python get-pip.py***
+<br />Solution😄: ***python get-pip.py***
         
-### Suggestion ###
+### Suggestion 🧐 ###
 Remember after cloning the repo from Github, please download all the image file in your D drive to run the code without 
 hitch or glitch or you can change the image directory according to your convenience and also alter the directory in the program code as well.
 
 
+**When I wrote this code, only God and I understood what I did. Now only God knows.**
