@@ -11,3 +11,4 @@ One Stop Tool kit is a single application consisting of multiple functionalities
   5. Forex_python
   6. Pytube
   7. Requests
+
