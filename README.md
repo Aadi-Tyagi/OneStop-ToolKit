@@ -14,7 +14,7 @@ One Stop Tool kit is a single application consisting of multiple functionalities
   7. Requests
 
 
-### Setting up the project environment ⚙⚙⚙  ###
+## Setting up the project environment ⚙⚙⚙  ##
 
 Open Command Prompt with admin privileges and copy the following commands one by one and press enter after each command.
 
@@ -31,7 +31,7 @@ Open Command Prompt with admin privileges and copy the following commands one by
 11. pip install pyttsx3
 12. pip install requests
 
-### What problems may occur 😔🤔 ###
+## What problems may occur 😔🤔 ##
 Problem 1: If anyone is facing any errors while following the above command list then consider upgrading your pip by using 
 the below mentioned commands
 <br />Solution😄: ***python -m pip install -upgrade pip***
@@ -39,7 +39,7 @@ the below mentioned commands
 Problem 2: If anyone is facing the error "No module found named pip" then run the following command
 <br />Solution😄: ***python get-pip.py***
         
-### Suggestion 🧐 ###
+## Suggestion 🧐 ##
 Remember after cloning the repo from Github, please download all the image file in your D drive to run the code without 
 hitch or glitch or you can change the image directory according to your convenience and also alter the directory in the program code as well.
 
